@@ -1,0 +1,7 @@
+# Ignored folders
+venv/
+__pycache__/
+
+# Ignored files
+config.ini
+database.db
